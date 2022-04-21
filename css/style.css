@@ -33,12 +33,35 @@ header{
 
 /* MAIN */
 
-.main-container{
-    background-color: white;
+    main{
+     background-color: white;
     margin-top: 40px;
     margin-left: 200px;
     margin-right: 200px;
     border-radius: 10px;
     height: 600px;
     margin-bottom: 10px;
+    }
+
+    .main-container{
+        padding-top: 15px;
+        padding-left: 50px;
+    }
+
+    .btn{
+        display: inline-block;
+        border-radius: 5px;
+        border-style: solid;
+        border-width: 1px;
+    }
+
+    .btn-blu{
+        background-color: #57adf1;
+        color: white;
+
+    }
+
+    .btn-white{
+        background-color: white;
+        color: #d9dde1;
     }
