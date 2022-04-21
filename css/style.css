@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-container{
+    width: 95%;
+    margin: auto;
+}
+
+
+/* HEADER */
+header{
+    background-color: white; 
+}
+.logo{
+    margin-top: 10px;
+}
+
+.main-container{
+    width: 60%;
+    margin: auto;
+}
+
+/* MAIN */
+main{
+    background-color:#f6f8f9;
+}
