@@ -12,7 +12,6 @@ body{
 .header-container{
     width: 95%;
     margin: auto;
-    
 }
 
 
@@ -23,15 +22,23 @@ header{
 .logo{
     margin-top: 10px;
     margin-bottom: 10px;
+    vertical-align: middle;
+
+}
+.toboo{
+    vertical-align: middle;
+    font-size: 35px;
+    font-weight: 800;
 }
 
 /* MAIN */
 
 .main-container{
-    margin: auto;
     background-color: white;
-    width: 60%;
     margin-top: 40px;
-    margin-bottom: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
     border-radius: 10px;
+    height: 600px;
+    margin-bottom: 10px;
     }
