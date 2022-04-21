@@ -2,10 +2,17 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
+
+body{
+    background-color:#f6f8f9;
+}
+
 .header-container{
     width: 95%;
     margin: auto;
+    
 }
 
 
@@ -15,14 +22,16 @@ header{
 }
 .logo{
     margin-top: 10px;
-}
-
-.main-container{
-    width: 60%;
-    margin: auto;
+    margin-bottom: 10px;
 }
 
 /* MAIN */
-main{
-    background-color:#f6f8f9;
-}
+
+.main-container{
+    margin: auto;
+    background-color: white;
+    width: 60%;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    }
